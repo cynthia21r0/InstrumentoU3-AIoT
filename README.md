@@ -8,7 +8,7 @@
 |Gael Quintana Romero|GDS0651|
 ## ---------------------------------------------------------------------------------------
 
-## Componentes Utlizados
+## Componentes Utilizados
 |Sensores|Tipo|Actuadores|Tipo|
 |--|--|--|--|
 |Temperatura y Humedad|<img src="https://github.com/user-attachments/assets/28a681e7-d25f-49fc-9c19-deedf92ee20b" width="200"/>|Vibracion|<img src="https://github.com/user-attachments/assets/0b970ce0-171c-4f42-964b-d52f2cbf0b16" width="200"/>|
@@ -39,13 +39,13 @@
 |Gael|Cynthia|Carol|
 |--|--|--|
 |¿Qué hizo bien?|¿Qué hizo bien?|¿Qué hizo bien?|
-|Hice funcionar la pantalla táctil ESP32-2432S022C, el procesamiento y guardado de un audio con un sensor de microfono, realice gran parte de los nodos y del dashboard, ayudo en la bascula y con el sensor de vibración, y termino de acomodar el sensor de gas|Pude juntar algunos codigos para que funcionarán en una sola esp32, que funcionaran los servos, que se comunicara un actuador y que se mostrara algo en el dashboard que mande una señal al actuador, ademas de ajustar los tamaños de las carcasas y ayude con el acomodo de los componentes en la colmena|-|
+|Hice funcionar la pantalla táctil ESP32-2432S022C, el procesamiento y guardado de un audio con un sensor de microfono, realice gran parte de los nodos y del dashboard, ayudo en la bascula y con el sensor de vibración, y termino de acomodar el sensor de gas|Pude juntar algunos codigos para que funcionarán en una sola esp32, que funcionaran los servos, que se comunicara un actuador y que se mostrara algo en el dashboard que mande una señal al actuador, ademas de ajustar los tamaños de las carcasas y ayude con el acomodo de los componentes en la colmena|Ayude en terminar la bascula para que funcionara bien, estuve ayudando con una carcasa que se tuvo que usar en ultimo momento y ayude a Cynthia con el acomodo de varias conexiones, ayude tambien con el acomodo de los componentes e inicie la codificacion del sensor de gas|
 |¿Qué hizo mal?|¿Qué hizo mal?|¿Qué hizo mal?|
-|Al no vocabulizar bien hice que mis compañeras no llegaran a entender mis ideas y propuestas|Batalle demasiado con el sensor de peso, que son las celdas de carga, y que una carcasa no quedo bien en la medida|-|
+|Al no vocabulizar bien hice que mis compañeras no llegaran a entender mis ideas y propuestas|Batalle demasiado con el sensor de peso, que son las celdas de carga, y que una carcasa no quedo bien en la medida|Estuve mucho tiempo tratando de hacer un actuador que al final no resulto debido a una avería en un componente|
 |¿Qué puede mejorar?|¿Qué puede mejorar?|¿Qué puede mejorar?|
-|Intentar tener una mejor dicción y hablar un poco más bajo|Aprender a encontrar más documentación sobre componentes que se me dificulten y corroborar las medidas de los modelos de las carcasas|-|
+|Intentar tener una mejor dicción y hablar un poco más bajo|Aprender a encontrar más documentación sobre componentes que se me dificulten y corroborar las medidas de los modelos de las carcasas|Buscar mas soluciones y descartar todo lo posible que pueda provocar el fallo|
 |Calificación|Calificación|Calificación|
-|9.6|9.2|-|
+|9.6|9.2|8.6|
 
 ## Coevaluación
 |Gael|Cynthia|Carol|
