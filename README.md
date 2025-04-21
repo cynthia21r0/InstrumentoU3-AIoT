@@ -35,6 +35,12 @@
 |<img src="https://github.com/user-attachments/assets/00a90f35-3802-4843-bfdf-9aa6cd779bc8" width="600"/>|<img src="https://github.com/user-attachments/assets/6fefd978-e915-4d65-bd46-3971b90aacc0" width="600"/>|<img src="https://github.com/user-attachments/assets/9f107155-201f-4bc0-ac01-c9738b559309" width="600"/>|
 ## ---------------------------------------------------------------------------------------
 
+## Notificación
+|Gas|Vibración|
+|--|--|
+|<img src="https://github.com/user-attachments/assets/179448a2-5066-424c-a740-27ec043c8a08" height="500"/>|<img src="https://github.com/user-attachments/assets/26c3e744-b2a6-4708-99f5-0c9f9788d47c" height="500"/>|
+## ---------------------------------------------------------------------------------------
+
 ## Autoevaluación
 |Gael|Cynthia|Carol|
 |--|--|--|
