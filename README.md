@@ -20,7 +20,7 @@
 ## Autoevaluación
 |Alumno|Nota|Calificación|
 |--|--|--|
-|Cynthia Janeth Granados Estrada|GDS0651|-|
+|Cynthia Janeth Granados Estrada|Tuve muchas complicaciones al momento de poder ensamblar correctamente y compilar los codigos, ya que no conocia mucho sobre se usaban esos componentes y no habia mucha documentación para guiarme|7|
 |Carol Guadalupe Rios Rios|GDS0651|-|
 |Gael Quintana Romero|GDS0651|-|
 
