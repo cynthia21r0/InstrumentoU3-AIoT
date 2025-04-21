@@ -32,29 +32,29 @@
 |--|--|--|
 |<img src="https://github.com/user-attachments/assets/7a001faf-5812-49b6-89a7-f617d5f97979" width="600"/>|<img src="https://github.com/user-attachments/assets/70a3ac29-1856-4b73-9190-9f0fce8d1c98" width="600"/>|<img src="https://github.com/user-attachments/assets/465107ed-1fff-43e5-975b-e1a589e616f1" width="600"/>|
 |<img src="https://github.com/user-attachments/assets/0e39cc67-b0e2-4392-94cf-c682a844374e" width="600"/>|<img src="https://github.com/user-attachments/assets/181ffbe9-6482-41b6-8aa6-d8c4e9641958" width="600"/>|<img src="https://github.com/user-attachments/assets/ebbf6926-d7b9-48b5-b660-d0ea2482fe71" width="600"/>|
-|<img src="https://github.com/user-attachments/assets/00a90f35-3802-4843-bfdf-9aa6cd779bc8" width="600"/>|<img src="https://github.com/user-attachments/assets/6fefd978-e915-4d65-bd46-3971b90aacc0" width="600"/>|<img src="https://github.com/user-attachments/assets/d9b501c3-78e0-4223-b51d-0cf9244c9092" width="600"/>|
+|<img src="https://github.com/user-attachments/assets/00a90f35-3802-4843-bfdf-9aa6cd779bc8" width="600"/>|<img src="https://github.com/user-attachments/assets/6fefd978-e915-4d65-bd46-3971b90aacc0" width="600"/>|<img src="https://github.com/user-attachments/assets/9f107155-201f-4bc0-ac01-c9738b559309" width="600"/>|
 ## ---------------------------------------------------------------------------------------
 
 ## Autoevaluación
 |Gael|Cynthia|Carol|
 |--|--|--|
 |¿Qué hizo bien?|¿Qué hizo bien?|¿Qué hizo bien?|
-|-|Pude juntar algunos codigos para que funcionarán en una sola esp32, que se comunicara un actuador, ademas de ajustar los tamaños de las carcasas|-|
+|Hice funcionar la pantalla táctil ESP32-2432S022C, el procesamiento y guardado de un audio con un sensor de microfono, realice gran parte de los nodos y del dashboard, ayudo en la bascula y con el sensor de vibración, y termino de acomodar el sensor de gas|Pude juntar algunos codigos para que funcionarán en una sola esp32, que funcionaran los servos, que se comunicara un actuador y que se mostrara algo en el dashboard que mande una señal al actuador, ademas de ajustar los tamaños de las carcasas y ayude con el acomodo de los componentes en la colmena|-|
 |¿Qué hizo mal?|¿Qué hizo mal?|¿Qué hizo mal?|
-|-|Batalle demasiado con el sensor de peso, que son las celdas de carga, y que una carcasa no quedo bien en la medida|-|
+|Al no vocabulizar bien hice que mis compañeras no llegaran a entender mis ideas y propuestas|Batalle demasiado con el sensor de peso, que son las celdas de carga, y que una carcasa no quedo bien en la medida|-|
 |¿Qué puede mejorar?|¿Qué puede mejorar?|¿Qué puede mejorar?|
-|-|Aprender a encontrar más documentación sobre componentes que se me dificulten y corroborar las medidas de los modelos de las carcasas|-|
+|Intentar tener una mejor dicción y hablar un poco más bajo|Aprender a encontrar más documentación sobre componentes que se me dificulten y corroborar las medidas de los modelos de las carcasas|-|
 |Calificación|Calificación|Calificación|
-|-|7|-|
+|9.6|9.2|-|
 
 ## Coevaluación
 |Gael|Cynthia|Carol|
 |--|--|--|
 |¿Qué hizo bien?|¿Qué hizo bien?|¿Qué hizo bien?|
-|Él hizo todo bien, desde que empezamos el proyecto fue el que tomo la iniciativa en todo y fue quien más investigo sobre los componentes, además de que nos estuvo ayudando en todo lo que se nos complicaba|-|-|
+|Él hizo todo bien, desde que empezamos el proyecto fue el que tomo la iniciativa en todo y fue quien más investigo sobre los componentes, además de que nos estuvo ayudando en todo lo que se nos complicaba|Fue la persona que más integro el equipo, estuvo preguntando que más faltaba|Pudo calibrar la balanza con la que hubo detalles, ayudo con parte del sensor de gas, acomodo cosas en la colmena|
 |¿Qué hizo mal?|¿Qué hizo mal?|¿Qué hizo mal?|
-|No hizo nada mal|-|-|
+|En momentos contestaba de forma grosera o no se le entendia muy bien que es lo que nos decia|Se frustraba demasiado cuando no funcionaban bien los componentes y llegaba a desesperarse bastante|No pudo realizar el uso de la bomba hidraulica, debido a que el rele que se estaba usando estaba quemado|
 |¿Qué puede mejorar?|¿Qué puede mejorar?|¿Qué puede mejorar?|
-|Nada, todo bien|-|-|
+|Controlar el tono de voz en algunos momentos|Controlar mejor el estrés|Descartar todas las posibles cosas que puedan estar fallando|
 |Calificación|Calificación|Calificación|
-|10|-|-|
+|9.8|9.6|9.6|
