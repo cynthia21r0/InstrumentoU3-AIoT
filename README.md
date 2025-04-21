@@ -31,29 +31,22 @@
 |Gael|Cynthia|Carol|
 |--|--|--|
 |¿Qué hizo bien?|¿Qué hizo bien?|¿Qué hizo bien?|
-|-|-|-|
+|-|Pude juntar algunos codigos para que funcionarán en una sola esp32, que se comunicara un actuador, ademas de ajustar los tamaños de las carcasas|-|
 |¿Qué hizo mal?|¿Qué hizo mal?|¿Qué hizo mal?|
-|-|-|-|
+|-|Batalle demasiado con el sensor de peso, que son las celdas de carga, y que una carcasa no quedo bien en la medida|-|
 |¿Qué puede mejorar?|¿Qué puede mejorar?|¿Qué puede mejorar?|
-|-|-|-|
+|-|Aprender a encontrar más documentación sobre componentes que se me dificulten y corroborar las medidas de los modelos de las carcasas|-|
 |Calificación|Calificación|Calificación|
-|-|-|-|
+|-|7|-|
 
 ## Coevaluación
 |Gael|Cynthia|Carol|
 |--|--|--|
 |¿Qué hizo bien?|¿Qué hizo bien?|¿Qué hizo bien?|
-|-|-|-|
+|Él hizo todo bien, desde que empezamos el proyecto fue el que tomo la iniciativa en todo y fue quien más investigo sobre los componentes, además de que nos estuvo ayudando en todo lo que se nos complicaba|-|-|
 |¿Qué hizo mal?|¿Qué hizo mal?|¿Qué hizo mal?|
-|-|-|-|
+|No hizo nada mal|-|-|
 |¿Qué puede mejorar?|¿Qué puede mejorar?|¿Qué puede mejorar?|
-|-|-|-|
+|Nada, todo bien|-|-|
 |Calificación|Calificación|Calificación|
-|-|-|-|
-
-
-Autoevaluación y coevaluación (5 puntos)
-○ Cada estudiante responderá:
-■ ¿Qué hizo bien?
-■ ¿Qué hizo mal?
-■ ¿Qué puede mejorar?
+|10|-|-|
