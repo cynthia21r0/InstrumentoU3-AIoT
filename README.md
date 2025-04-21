@@ -17,6 +17,16 @@
 |Gas MQ-135|<img src="https://github.com/user-attachments/assets/04370a9a-fb44-466e-ac96-24b24aa5af9a" width="200"/>|
 ## ---------------------------------------------------------------------------------------
 
+## Base de datos en postgres
+|Tabla|Actuadores|
+|--|--|
+|colmenas|<img src="https://github.com/user-attachments/assets/a8df742a-3e38-4238-9f41-c59b73601d1a" width="200"/>|
+|actuadores|<img src="https://github.com/user-attachments/assets/85a7077f-55f3-4408-bc72-09fb9e422837" width="200"/>|
+|sensores|<img src="https://github.com/user-attachments/assets/19aeb7b1-5e14-4be9-9f8c-d914adb4cc09" width="200"/>|
+|registro_actuadores|<img src="https://github.com/user-attachments/assets/ba05fc78-588e-45fa-a974-49f144150bbe" width="200"/>|
+|registro_sensores|<img src="https://github.com/user-attachments/assets/e77e3554-1bb3-4f07-9972-6cbad4fa737c" width="200"/>|
+## ---------------------------------------------------------------------------------------
+
 ## Autoevaluación
 |Alumno|Nota|Calificación|
 |--|--|--|
