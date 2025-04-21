@@ -28,15 +28,32 @@
 ## ---------------------------------------------------------------------------------------
 
 ## Autoevaluación
-|Alumno|Nota|Calificación|
+|Gael|Cynthia|Carol|
 |--|--|--|
-|Cynthia Janeth Granados Estrada|Tuve muchas complicaciones al momento de poder ensamblar correctamente y compilar los codigos, ya que no conocia mucho sobre se usaban esos componentes y no habia mucha documentación para guiarme|7|
-|Carol Guadalupe Rios Rios|GDS0651|-|
-|Gael Quintana Romero|GDS0651|-|
+|¿Qué hizo bien?|¿Qué hizo bien?|¿Qué hizo bien?|
+|-|-|-|
+|¿Qué hizo mal?|¿Qué hizo mal?|¿Qué hizo mal?|
+|-|-|-|
+|¿Qué puede mejorar?|¿Qué puede mejorar?|¿Qué puede mejorar?|
+|-|-|-|
+|Calificación|Calificación|Calificación|
+|-|-|-|
 
 ## Coevaluación
-|Alumno|Nota|Calificación|
+|Gael|Cynthia|Carol|
 |--|--|--|
-|Cynthia Janeth Granados Estrada|GDS0651|-|
-|Carol Guadalupe Rios Rios|GDS0651|-|
-|Gael Quintana Romero|Hizo varias cosas del proyecto, entre ellas las más complejas y en todo momento estuvo en la disposición de ayudarnos|10|
+|¿Qué hizo bien?|¿Qué hizo bien?|¿Qué hizo bien?|
+|-|-|-|
+|¿Qué hizo mal?|¿Qué hizo mal?|¿Qué hizo mal?|
+|-|-|-|
+|¿Qué puede mejorar?|¿Qué puede mejorar?|¿Qué puede mejorar?|
+|-|-|-|
+|Calificación|Calificación|Calificación|
+|-|-|-|
+
+
+Autoevaluación y coevaluación (5 puntos)
+○ Cada estudiante responderá:
+■ ¿Qué hizo bien?
+■ ¿Qué hizo mal?
+■ ¿Qué puede mejorar?
