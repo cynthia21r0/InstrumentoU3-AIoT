@@ -20,13 +20,13 @@
 ## Autoevaluación
 |Alumno|Nota|Calificación|
 |--|--|--|
-|Cynthia Janeth Granados Estrada|GDS0651|
-|Carol Guadalupe Rios Rios|GDS0651|
-|Gael Quintana Romero|GDS0651|
+|Cynthia Janeth Granados Estrada|GDS0651|-|
+|Carol Guadalupe Rios Rios|GDS0651|-|
+|Gael Quintana Romero|GDS0651|-|
 
 ## Coevaluación
 |Alumno|Nota|Calificación|
 |--|--|--|
-|Cynthia Janeth Granados Estrada|GDS0651|
-|Carol Guadalupe Rios Rios|GDS0651|
-|Gael Quintana Romero|GDS0651|
+|Cynthia Janeth Granados Estrada|GDS0651|-|
+|Carol Guadalupe Rios Rios|GDS0651|-|
+|Gael Quintana Romero|Hizo varias cosas del proyecto, entre ellas las más complejas y en todo momento estuvo en la disposición de ayudarnos|10|
