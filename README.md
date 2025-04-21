@@ -38,7 +38,7 @@
 ## Notificación
 |Gas|Vibración|
 |--|--|
-|<img src="https://github.com/user-attachments/assets/179448a2-5066-424c-a740-27ec043c8a08" height="500"/>|<img src="https://github.com/user-attachments/assets/26c3e744-b2a6-4708-99f5-0c9f9788d47c" height="500"/>|
+|<img src="https://github.com/user-attachments/assets/179448a2-5066-424c-a740-27ec043c8a08" height="400"/>|<img src="https://github.com/user-attachments/assets/26c3e744-b2a6-4708-99f5-0c9f9788d47c" height="400"/>|
 ## ---------------------------------------------------------------------------------------
 
 ## Autoevaluación
