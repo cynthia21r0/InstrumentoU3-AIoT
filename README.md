@@ -45,7 +45,7 @@
 |¿Qué puede mejorar?|¿Qué puede mejorar?|¿Qué puede mejorar?|
 |Intentar tener una mejor dicción y hablar un poco más bajo|Aprender a encontrar más documentación sobre componentes que se me dificulten y corroborar las medidas de los modelos de las carcasas|Buscar mas soluciones y descartar todo lo posible que pueda provocar el fallo|
 |Calificación|Calificación|Calificación|
-|9.6|9.2|8.6|
+|9.6|9.0|8.6|
 
 ## Coevaluación
 |Gael|Cynthia|Carol|
