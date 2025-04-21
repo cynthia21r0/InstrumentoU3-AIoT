@@ -20,11 +20,19 @@
 ## Base de datos en postgres
 |Tabla|Actuadores|
 |--|--|
-|colmenas|<img src="https://github.com/user-attachments/assets/d9b501c3-78e0-4223-b51d-0cf9244c9092" width="600"/>|
-|actuadores|<img src="https://github.com/user-attachments/assets/85a7077f-55f3-4408-bc72-09fb9e422837" width="600"/>|
-|sensores|<img src="https://github.com/user-attachments/assets/19aeb7b1-5e14-4be9-9f8c-d914adb4cc09" width="600"/>|
-|registro_actuadores|<img src="https://github.com/user-attachments/assets/ba05fc78-588e-45fa-a974-49f144150bbe" width="600"/>|
-|registro_sensores|<img src="https://github.com/user-attachments/assets/e77e3554-1bb3-4f07-9972-6cbad4fa737c" width="600"/>|
+|colmenas|<img src="https://github.com/user-attachments/assets/f7c8538c-b7d7-4498-885d-a38a180b4d50" width="400"/>|
+|actuadores|<img src="https://github.com/user-attachments/assets/43e98bde-4ce5-4f93-b927-ed612eafec66" width="400"/>|
+|sensores|<img src="https://github.com/user-attachments/assets/baee671b-ce7a-44e3-b1ec-03ce0647f3dd" width="400"/>|
+|registro_actuadores|<img src="https://github.com/user-attachments/assets/6d5f303f-3b49-4b28-8acc-330ea6474512" width="400"/>|
+|registro_sensores|<img src="https://github.com/user-attachments/assets/f2ac6e49-32cd-4dce-8587-a3e0d360b6c1" width="400"/>|
+## ---------------------------------------------------------------------------------------
+
+## Evidencias
+|Foto|Foto|Foto|
+|--|--|--|
+|<img src="https://github.com/user-attachments/assets/7a001faf-5812-49b6-89a7-f617d5f97979" width="600"/>|<img src="https://github.com/user-attachments/assets/70a3ac29-1856-4b73-9190-9f0fce8d1c98" width="600"/>|<img src="https://github.com/user-attachments/assets/465107ed-1fff-43e5-975b-e1a589e616f1" width="600"/>|
+|<img src="https://github.com/user-attachments/assets/0e39cc67-b0e2-4392-94cf-c682a844374e" width="600"/>|<img src="https://github.com/user-attachments/assets/181ffbe9-6482-41b6-8aa6-d8c4e9641958" width="600"/>|<img src="https://github.com/user-attachments/assets/ebbf6926-d7b9-48b5-b660-d0ea2482fe71" width="600"/>|
+|<img src="https://github.com/user-attachments/assets/00a90f35-3802-4843-bfdf-9aa6cd779bc8" width="600"/>|<img src="https://github.com/user-attachments/assets/6fefd978-e915-4d65-bd46-3971b90aacc0" width="600"/>|<img src="https://github.com/user-attachments/assets/d9b501c3-78e0-4223-b51d-0cf9244c9092" width="600"/>|
 ## ---------------------------------------------------------------------------------------
 
 ## Autoevaluación
