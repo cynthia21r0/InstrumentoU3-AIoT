@@ -1,6 +1,6 @@
 # InstrumentoU3-AIoT
 
-# Aplicaciones de IoT - Unidad II
+# Aplicaciones de IoT - Unidad III
 |Alumnos|Grupo|
 |--|--|
 |Cynthia Janeth Granados Estrada|GDS0651|
@@ -15,3 +15,18 @@
 |Peso|<img src="https://github.com/user-attachments/assets/e65898a7-fb39-4647-ad6e-a2ed52048cc0" width="200"/>|Pantalla|<img src="https://github.com/user-attachments/assets/4692f975-44d5-4d53-ba9a-50ed9a9a68cf" width="200"/>|
 |Sonido|<img src="https://github.com/user-attachments/assets/6ff822b6-89da-4b8b-a904-07e4bb43bc62" width="200"/>|Servomotor|<img src="https://github.com/user-attachments/assets/4daa9af2-bafe-43fc-8607-2ced8701f8a9" width="200"/>|
 |Gas MQ-135|<img src="https://github.com/user-attachments/assets/04370a9a-fb44-466e-ac96-24b24aa5af9a" width="200"/>|
+## ---------------------------------------------------------------------------------------
+
+## Autoevaluación
+|Alumno|Nota|Calificación|
+|--|--|--|
+|Cynthia Janeth Granados Estrada|GDS0651|
+|Carol Guadalupe Rios Rios|GDS0651|
+|Gael Quintana Romero|GDS0651|
+
+## Coevaluación
+|Alumno|Nota|Calificación|
+|--|--|--|
+|Cynthia Janeth Granados Estrada|GDS0651|
+|Carol Guadalupe Rios Rios|GDS0651|
+|Gael Quintana Romero|GDS0651|
