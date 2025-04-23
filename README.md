@@ -28,11 +28,12 @@
 ## ---------------------------------------------------------------------------------------
 
 ## Video del funcionamiento
-https://drive.google.com/drive/folders/1G_uE2QAo5OWNreI3ySi9OMmp8sXaEdrh
+https://drive.google.com/file/d/1Gdi466TRRGjwn3nyQ0bjjEErVvDAvU5H/view?usp=drivesdk
 ## ---------------------------------------------------------------------------------------
 
 
-## Vídeo del cliente 
+## Vídeo del cliente
+https://drive.google.com/file/d/1HgbfRG7-MqMS_7j_mM6WY2trxQld3r-x/view?usp=drivesdk
 ## ---------------------------------------------------------------------------------------
 
 
