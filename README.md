@@ -27,6 +27,13 @@
 |registro_sensores|<img src="https://github.com/user-attachments/assets/f2ac6e49-32cd-4dce-8587-a3e0d360b6c1" width="400"/>|
 ## ---------------------------------------------------------------------------------------
 
+## Video del funcionamiento
+https://drive.google.com/drive/folders/1G_uE2QAo5OWNreI3ySi9OMmp8sXaEdrh
+
+## Vídeo del cliente 
+
+## Diagramas de conexión 
+
 ## Evidencias
 |Foto|Foto|Foto|
 |--|--|--|
